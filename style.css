@@ -1,3 +1,22 @@
-body {
-    background: blue;
+
+  h1, h2,h3 {
+    font-weight: 300;
+    font-family: 'sans-serif', Open Sans;
+
   }
+  p{
+      color: #4A4E69;
+      font-weight: 300;
+      font-family: 'Open Sans';
+  }
+  body { 
+    position: absolute;
+    display: flexbox;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    height: 100vh;
+    background: rgb(206, 206, 218);
+    text-align: center;
+  }
+  
